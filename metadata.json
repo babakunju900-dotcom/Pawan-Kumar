@@ -1,0 +1,6 @@
+{
+  "name": "KinoStage",
+  "description": "World-class OTT Cinema, Web Series, Live TV, 24/7 Multi-Camera Reality Shows, Live Streaming Studio, and Super Admin Platform.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
